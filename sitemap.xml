@@ -11,34 +11,9 @@
 
 
 <url>
-  <loc>https://camprowe.com/</loc>
+  <loc>https://links.camprowe.com/</loc>
   <lastmod>2026-07-01T15:58:13+00:00</lastmod>
   <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://camprowe.com/productions/</loc>
-  <lastmod>2026-07-01T15:58:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://camprowe.com/productions/geekotist/</loc>
-  <lastmod>2026-07-01T15:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://camprowe.com/productions/patch-notes/</loc>
-  <lastmod>2026-07-01T15:58:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://camprowe.com/productions/campfire/</loc>
-  <lastmod>2026-07-01T15:58:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://camprowe.com/productions/camprowe-audio/</loc>
-  <lastmod>2026-07-01T15:58:13+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 
 </urlset>
